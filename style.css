@@ -1,0 +1,43 @@
+p {
+	font-family: Helvetica, arial, sans-serif;
+	font-style: normal;
+	font-size: 0.8em;
+}
+
+h1 {
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 1.3em;
+}
+
+.quote {
+	font-family: Times, Courier, serif;
+	font-style: italic;
+	font-size: 0.8em;
+	text-align: center;
+	color: gray;
+}
+
+#twain {
+	color: blue;
+}
+
+#einstein {
+	color: red;
+}
+
+.box {
+	height: 100px;
+	width: 100px;
+	float: left;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+}
+
+#Cuca {
+	background-color: red;
+}
+
+#Dadu {
+	background-color: green;
+}
